@@ -10,6 +10,7 @@ basic.showIcon(IconNames.Happy)
 
 input.onButtonPressed(Button.A, function () {
     robotbit.Servo(servoNumber1, 0)
+
 })
 
 input.onButtonPressed(Button.B, function () {
